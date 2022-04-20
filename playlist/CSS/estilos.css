@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(31, 194, 206);
+    background-image: url(/fondo3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* encabezado */
+
+
+/* principal */
+
+main {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+img {
+    width: 60px;
+    height: 60px;
+
+}
+table {
+    background-color: rgba(44, 141, 148, 0.432);
+    border-collapse: collapse;
+    width: 35%;
+    font-size: 20px;
+}
+tr {
+    text-align: center;
+    border: 3px solid rgb(241, 73, 73);
+    
+}
+th {
+    color: rgb(6, 6, 250);
+}
+p {
+    color: white;
+    font-size: 30px;
+}
+b {
+    color: white;
+}
+a :visited{
+    color: white;
+    
+}
+a :hover {
+    color: white;
+}
+a {
+    color: white;
+}
+
+
+
+
+
+
+    
+
